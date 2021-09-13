@@ -11,8 +11,8 @@ My final project for the 2021 ConsenSys Academy Bootcamp
 There is no immediately clear incentive to tamper with the chain as there is no value associated, thus why I'd like to attach this to Ethereum.
 
 **Issues:**
+- Unclear how you could hide your entries from the network since you give out your public key
 - Unclear the size of the payload I can send as a message (would I be able to send markdown?)
 - The use case for editing a journal entry, or deleting it would be impractical (maybe that's a pro)
 - I'm not familiar with EC20 tokens or the incentive structure to get people to process my transactions
 - Is there a monetization structure, or is this a hobby?
-
